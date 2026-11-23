@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49afedbb.css",
+    "main.js": "/static/js/main.3c0da2e2.js",
+    "static/media/class3_banner1.jpg": "/static/media/class3_banner1.42302de2e0ef23f7b78f.jpg",
+    "static/media/class3_product4.jpg": "/static/media/class3_product4.67144d3e4378e9e45609.jpg",
+    "static/media/class4_product5.jpg": "/static/media/class4_product5.4d1531d6bb7ed0ca789f.jpg",
+    "index.html": "/index.html",
+    "main.49afedbb.css.map": "/static/css/main.49afedbb.css.map",
+    "main.3c0da2e2.js.map": "/static/js/main.3c0da2e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49afedbb.css",
+    "static/js/main.3c0da2e2.js"
+  ]
+}
