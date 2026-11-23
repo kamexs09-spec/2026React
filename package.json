@@ -2,7 +2,7 @@
   "name": "reactstudy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kamexs09-spec.github.io/2026React/",
+  "homepage": "https://kamexs09-spec.github.io/2026React",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.3.1",
     "@fortawesome/free-solid-svg-icons": "^7.3.1",
